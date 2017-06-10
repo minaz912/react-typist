@@ -64,7 +64,6 @@
     "postcss-loader": "^0.8.2",
     "promise-mock": "^1.1.0",
     "react": "^15.0",
-    "react-addons-test-utils": "^15.0",
     "react-dom": "^15.0",
     "sass-loader": "^3.2.0",
     "style-loader": "^0.13.0",
